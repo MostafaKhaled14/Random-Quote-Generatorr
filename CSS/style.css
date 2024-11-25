@@ -1,0 +1,25 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    font-family: Impact;
+    font-size:5rem;
+    font-weight: bolder;
+}
+button{
+    font-family: Arial;
+    background-color: #2c3E50;
+    color: #ececec;
+    transition: 0.3s;
+    box-shadow: 0 0 10px 0px #ececec inset;
+    border: 2px solid #ececec;
+}
+button:hover{
+    background-color:#ececec;
+    color: #2c3E50;
+    box-shadow: 0 0 10px 0px #2c3E50 inset;
+    border: 2px solid #2c3E50;
+}
+p{
+    font-family: Arial;
+}
